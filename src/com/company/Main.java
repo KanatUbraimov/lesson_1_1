@@ -28,9 +28,7 @@ public class Main {
 
     }
 */
-        callSomeBody("Aibek");
-        callSomeBody("Max");
-        System.out.println(kvagratChisla(5, 6));
+
 
     }
 
